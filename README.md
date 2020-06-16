@@ -5,7 +5,7 @@ All files of code are as provided in this repository. This activity has created 
 ### -- Project Status: Completed
 Project Intro/Objective
 
-I have created a dataset involving employee purchases.  The purpose of this project is to demostrate my skills using a VBA macros to calculating accounting spreadsheets.    
+I have created a dataset involving employee purchases.  The purpose of this project is to demostrate my skills using a VBA macros to calculate accounting spreadsheets.    
 
 ### Methods Used
 
